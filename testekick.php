@@ -1,8 +1,8 @@
 <?php
 // Substitua esses valores pelos detalhes corretos do seu servidor de rádio
-$server_ip = 'ip_do_servidor';
-$server_port = 'porta_do_servidor';
-$server_password = 'senha_do_servidor';
+$server_ip = 'stream.truesecurity.com.br';
+$server_port = '8044';
+$server_password = '3W2JBYBF8TKYSSY';
 
 // Verifique se a solicitação é um POST
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
